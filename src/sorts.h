@@ -1,3 +1,4 @@
+#inclide <stdio.h>
 
 int partition(int *arr, int left, int right);
 
